@@ -8,7 +8,7 @@ st.title("NASDAQ NYSE Energy Dashboard")
 st.markdown("This streamlit application is using for"
             "monitoring NASDAQ NYSE Energy companies with upperthan medium market Cap (> $ 2 Bil) \n By Youngwon Cho.")
 #tickers = ("AAPL","ADBE","ADI",ADSK,AMAT,AMD,ANSS,APP,ASML,AVGO,AZPN,BIDU,BILI,CDNS,CDW,CHKP,COIN,CRWD,CSCO,CTSH,CTXS,DDOG,DOCU,DOX,ENTG,ERIC,FTNT,GOOG,GOOGL,INTC,INTU,JKHY,KLAC,LBTYA,LBTYB,LBTYK,LRCX,MCHP,MDB,META,MPWR,MRVL,MSFT,MTCH,MU,NICE,NLOK,"NTAP","NVDA","NXPI","OKTA","ON","PANW","PTC","QCOM","ROKU","SEDG","SNPS","SPLK","SSNC","STX","SWKS","TEAM","TMUS","TTD","TTWO","TXN","VOD","VRSN","WBD","WDAY","WDC","ZBRA","ZI","ZM","ZS")
-DATA_URL1 = "./pages/Nasdaq_nyse_energy.csv"
+DATA_URL1 = "Nasdaq_nyse_energy.csv"
 #tickers = pd.read_csv()
 
 
